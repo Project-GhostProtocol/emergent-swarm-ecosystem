@@ -3,7 +3,6 @@ Emergent Swarm Ecosystem
 An artificial life sandbox built with p5.js.
 
 Features:
-
 Swarm intelligence
 Predator pack hunting
 Apex predator system
